@@ -1,0 +1,24 @@
+{
+    "name": "ghost-panel",
+    "version": "1.0.3",
+    "root": "icbu",
+    "description": "固定在特定位置上，幽灵一样跟随页面的面板。",
+    "homepage": "",
+    "author": "",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "bugs": {
+        "url": ""
+    },
+    "license": "",
+    "dependencies": {
+        "$": "$",
+        "base": "arale/widget/widget"
+    },
+    "tests": ["ghost-panel"],
+    "output": {
+        "ghost-panel.js": "."
+    }
+}
