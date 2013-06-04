@@ -4,7 +4,7 @@
 
 固定在特定位置上，幽灵一样跟随页面的面板。运行于 [AraleJS](https://github.com/aralejs) 框架。
 
-[API 文档](http://arale.alizoo.com/ghost-panel/) | [Demo 示例](http://arale.alizoo.com/ghost-panel/examples/)
+[Demo 示例](http://arale.alizoo.com/ghost-panel/examples/)
 
 ---
 
